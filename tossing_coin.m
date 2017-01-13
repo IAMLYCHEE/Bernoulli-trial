@@ -8,7 +8,7 @@ function [head_number,longest_run] = tossing_coin(eval_budget,p_thre)
 % usage: function [head_number,longest_run] = tossing_coin(eval_budget,p_thre)
 %tossing eval_budget times
 %Author : Li Yicheng 
-result = zeros(50,1);
+result = zeros(eval_budget,1);
 length = 0;
 longest_run = 0;
 head_number = 0;
