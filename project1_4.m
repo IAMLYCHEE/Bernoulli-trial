@@ -4,4 +4,4 @@
 %2017/1/12
 %l.y.c.liyicheng@gmail.com
 
-result = num_tosses(0.5);
+result = toss_until(0.5);
