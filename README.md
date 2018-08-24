@@ -1,2 +1,2 @@
-# EE511-PROJECT1
-this is the code files for USC EE511 Project1
+# Bernoulli trial
+matlab code for the bernoulli trail and the distribution simulation
